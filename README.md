@@ -18,3 +18,5 @@ https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-fu
 # General 
 
 https://www.benkuhn.net/weeklyessays/
+
+https://danluu.com/p95-skill/
