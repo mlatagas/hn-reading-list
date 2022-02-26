@@ -17,6 +17,8 @@ https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-fu
 
 # General tech
 
+https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/module-one/?e=gs2020&p=build-a-react-app-intro
+
 https://www.benkuhn.net/weeklyessays/
 
 https://danluu.com/p95-skill/
