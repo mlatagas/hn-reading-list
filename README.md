@@ -14,6 +14,7 @@ https://learningmusic.ableton.com/make-beats/what-are-these-sounds.html
 # Programming 
 
 https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/
+https://praeclarum.org/2022/02/19/hard-problems.html
 
 # General tech
 
