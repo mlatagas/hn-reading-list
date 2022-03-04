@@ -29,3 +29,6 @@ https://vancedapp.com/
 https://moxie.org/2022/01/07/web3-first-impressions.html
 
 https://fortelabs.co/blog/the-punk-strategy-guide-to-the-logical-thinking-process/
+
+https://gomakethings.com/spas-were-a-mistake/
+
