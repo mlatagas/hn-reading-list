@@ -32,3 +32,9 @@ https://fortelabs.co/blog/the-punk-strategy-guide-to-the-logical-thinking-proces
 
 https://gomakethings.com/spas-were-a-mistake/
 
+
+# Art
+
+https://publicdomainreview.org/collection/bruegel-big-fish-little-fish
+
+
