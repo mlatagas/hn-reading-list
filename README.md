@@ -32,6 +32,8 @@ https://fortelabs.co/blog/the-punk-strategy-guide-to-the-logical-thinking-proces
 
 https://gomakethings.com/spas-were-a-mistake/
 
+https://themeisle.com/blog/use-gmail-with-your-own-domain-name/
+
 
 # Art
 
