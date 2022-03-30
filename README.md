@@ -36,6 +36,9 @@ https://gomakethings.com/spas-were-a-mistake/
 
 https://themeisle.com/blog/use-gmail-with-your-own-domain-name/
 
+hybrid approach
+https://slate.com/human-interest/2022/03/hybrid-workplace-office-in-person-work-collaboration-hassle.html
+
 
 # Art
 
