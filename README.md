@@ -51,3 +51,6 @@ gangster doodles colour: #f8f1b6
 
 https://www.mixcloud.com/truthoughts/hidden-orchestra-improvised-live-remixes-mixtape/
 
+
+# misc
+https://publicdomainreview.org/collection/nikola-tesla-in-his-laboratory
