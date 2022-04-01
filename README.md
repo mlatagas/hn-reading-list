@@ -54,3 +54,7 @@ https://www.mixcloud.com/truthoughts/hidden-orchestra-improvised-live-remixes-mi
 
 # misc
 https://publicdomainreview.org/collection/nikola-tesla-in-his-laboratory
+
+# Literature
+
+https://www.derechopenalenlared.com/libros/labyrinths-borges.pdf
