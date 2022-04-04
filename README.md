@@ -58,3 +58,4 @@ https://publicdomainreview.org/collection/nikola-tesla-in-his-laboratory
 # Literature
 
 https://www.derechopenalenlared.com/libros/labyrinths-borges.pdf
+https://web.mit.edu/6.001/6.037/sicp.pdf
