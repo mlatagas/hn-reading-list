@@ -17,6 +17,8 @@ https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-fu
 https://praeclarum.org/2022/02/19/hard-problems.html
 https://gophercises.com/
 
+https://linkerd.io/service-mesh-glossary/
+
 
 # General tech
 
