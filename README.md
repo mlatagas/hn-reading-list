@@ -59,6 +59,8 @@ https://www.mixcloud.com/truthoughts/hidden-orchestra-improvised-live-remixes-mi
 # misc
 https://publicdomainreview.org/collection/nikola-tesla-in-his-laboratory
 
+https://braveneweurope.com/hubert-horan-the-uber-bubble-why-is-a-company-that-lost-20-billion-claimed-to-be-successful
+
 # Literature
 
 https://www.derechopenalenlared.com/libros/labyrinths-borges.pdf
