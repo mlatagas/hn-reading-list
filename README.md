@@ -66,6 +66,9 @@ https://braveneweurope.com/hubert-horan-the-uber-bubble-why-is-a-company-that-lo
 *mechanical watches
 https://ciechanow.ski/mechanical-watch/
 
+*raspberry pi projects
+https://www.tomshardware.com/features/best-raspberry-pi-projects/4
+
 # Literature
 
 https://www.derechopenalenlared.com/libros/labyrinths-borges.pdf
