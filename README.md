@@ -23,6 +23,8 @@ https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/
 
 email validation
 
+*python crash course
+https://www.freecodecamp.org/news/python-code-examples-simple-python-program-example/
 
 # General tech
 
