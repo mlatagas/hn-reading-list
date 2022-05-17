@@ -11,6 +11,8 @@ https://ciechanow.ski/cameras-and-lenses/
 
 https://learningmusic.ableton.com/make-beats/what-are-these-sounds.html
 
+https://www.freepianomethod.com/older-beginner-level-1-textbook-pdf-downloads.html
+
 # Programming 
 
 https://javascript.info/
