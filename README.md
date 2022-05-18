@@ -40,6 +40,9 @@ https://www.freecodecamp.org/news/python-code-examples-simple-python-program-exa
 
 https://web.dev/yahoo-japan-identity-case-study/
 
+* unix haters
+https://web.mit.edu/~simsong/www/ugh.pdf
+
 # General tech
 
 https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/module-one/?e=gs2020&p=build-a-react-app-intro
