@@ -84,6 +84,8 @@ https://braveneweurope.com/hubert-horan-the-uber-bubble-why-is-a-company-that-lo
 
 https://www.bloomberg.com/news/features/2022-05-19/crypto-platform-hack-rocks-blockchain-community
 
+https://chriskiehl.com/article/the-tyranny-of-what-if-it-changes
+
 *mechanical watches
 https://ciechanow.ski/mechanical-watch/
 
