@@ -92,6 +92,8 @@ https://ciechanow.ski/mechanical-watch/
 *raspberry pi projects
 https://www.tomshardware.com/features/best-raspberry-pi-projects/4
 
+https://audiojive.com/akai-mpc-3000/
+
 # Literature
 
 https://www.derechopenalenlared.com/libros/labyrinths-borges.pdf
