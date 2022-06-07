@@ -17,6 +17,7 @@ https://www.freepianomethod.com/older-beginner-level-1-textbook-pdf-downloads.ht
 
 https://javascript.info/
 
+https://github.com/sensity-ai/dot
 
 * AWS/EKS deployment
 https://towardsaws.com/spring-boot-app-on-eks-from-scratch-8c173737f1a
