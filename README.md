@@ -15,6 +15,9 @@ https://www.freepianomethod.com/older-beginner-level-1-textbook-pdf-downloads.ht
 
 # Programming 
 
+* How terraform works
+https://betterprogramming.pub/how-terraform-works-a-visual-intro-6328cddbe067
+
 https://javascript.info/
 
 https://github.com/sensity-ai/dot
