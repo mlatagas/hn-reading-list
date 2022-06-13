@@ -80,15 +80,20 @@ https://www.pathsensitive.com/2018/12/my-strange-loop-talk-you-are-program.html
 
 https://publicdomainreview.org/collection/bruegel-big-fish-little-fish
 
+* Gangster Doodles
 gangster doodles colour: #f8f1b6
 
+* hidden orchestra
 https://www.mixcloud.com/truthoughts/hidden-orchestra-improvised-live-remixes-mixtape/
 
 
+#CultureJamming
 * Tik Tok/ The Entertainment/ samizdat
 > now is what has happened when a people choose nothing over themselves to love
 > Who would die for this chance to be fed this death of pleasure with spoons, in their warm homes, alone, unmoving
 > who would choose not to die for pleasure, alone?
+The Idea of logos being _Omnipresent_
+Naomi Klein _No Logo_ 
 
 # misc
 https://publicdomainreview.org/collection/nikola-tesla-in-his-laboratory
