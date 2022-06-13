@@ -99,6 +99,10 @@ https://www.bloomberg.com/news/features/2022-05-19/crypto-platform-hack-rocks-bl
 
 https://chriskiehl.com/article/the-tyranny-of-what-if-it-changes
 
+* Actionism
+
+> https://culturejamming.realvinylz.net/interviewIe.html
+
 *mechanical watches
 https://ciechanow.ski/mechanical-watch/
 
