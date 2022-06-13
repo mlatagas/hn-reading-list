@@ -15,6 +15,10 @@ https://www.freepianomethod.com/older-beginner-level-1-textbook-pdf-downloads.ht
 
 # Programming 
 
+* fresh Deno
+
+https://fresh.deno.dev/docs/introduction
+
 * How terraform works
 https://betterprogramming.pub/how-terraform-works-a-visual-intro-6328cddbe067
 
