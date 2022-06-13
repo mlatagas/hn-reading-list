@@ -85,6 +85,11 @@ gangster doodles colour: #f8f1b6
 https://www.mixcloud.com/truthoughts/hidden-orchestra-improvised-live-remixes-mixtape/
 
 
+* Tik Tok/ The Entertainment/ samizdat
+> now is what has happened when a people choose nothing over themselves to love
+> Who would die for this chance to be fed this death of pleasure with spoons, in their warm homes, alone, unmoving
+> who would choose not to die for pleasure, alone?
+
 # misc
 https://publicdomainreview.org/collection/nikola-tesla-in-his-laboratory
 
