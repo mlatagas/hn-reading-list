@@ -96,6 +96,10 @@ The Idea of logos being _Omnipresent_
 Naomi Klein _No Logo_ 
 
 # misc
+
+* Open Source Controller Software
+> https://mixxx.org/
+
 https://publicdomainreview.org/collection/nikola-tesla-in-his-laboratory
 
 https://braveneweurope.com/hubert-horan-the-uber-bubble-why-is-a-company-that-lost-20-billion-claimed-to-be-successful
@@ -123,6 +127,5 @@ https://web.mit.edu/6.001/6.037/sicp.pdf
 
 # truisms generator
 https://github.com/zertosh/jenny-holzer-truisms/blob/master/truisms.txt
-
 
 
