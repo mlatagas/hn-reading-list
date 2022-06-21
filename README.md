@@ -93,6 +93,7 @@ https://www.mixcloud.com/truthoughts/hidden-orchestra-improvised-live-remixes-mi
 > Who would die for this chance to be fed this death of pleasure with spoons, in their warm homes, alone, unmoving
 > who would choose not to die for pleasure, alone?
 > https://garymarcus.substack.com/p/nonsense-on-stilts?s=r
+> https://en.wikipedia.org/wiki/Pareidolia
 The Idea of logos being _Omnipresent_
 Naomi Klein _No Logo_ 
 
