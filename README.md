@@ -94,6 +94,7 @@ https://www.mixcloud.com/truthoughts/hidden-orchestra-improvised-live-remixes-mi
 > who would choose not to die for pleasure, alone?
 > https://garymarcus.substack.com/p/nonsense-on-stilts?s=r
 > https://en.wikipedia.org/wiki/Pareidolia
+> https://mebassett.info/human-attention-commodity
 The Idea of logos being _Omnipresent_
 Naomi Klein _No Logo_ 
 
@@ -129,5 +130,6 @@ https://web.mit.edu/6.001/6.037/sicp.pdf
 
 # truisms generator
 https://github.com/zertosh/jenny-holzer-truisms/blob/master/truisms.txt
+
 
 
