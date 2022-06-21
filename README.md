@@ -92,6 +92,7 @@ https://www.mixcloud.com/truthoughts/hidden-orchestra-improvised-live-remixes-mi
 > now is what has happened when a people choose nothing over themselves to love
 > Who would die for this chance to be fed this death of pleasure with spoons, in their warm homes, alone, unmoving
 > who would choose not to die for pleasure, alone?
+> https://garymarcus.substack.com/p/nonsense-on-stilts?s=r
 The Idea of logos being _Omnipresent_
 Naomi Klein _No Logo_ 
 
