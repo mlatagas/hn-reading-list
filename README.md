@@ -131,5 +131,5 @@ https://web.mit.edu/6.001/6.037/sicp.pdf
 # truisms generator
 https://github.com/zertosh/jenny-holzer-truisms/blob/master/truisms.txt
 
-
-
+# repurposing android as server 
+https://lbrito1.github.io/blog/2020/02/repurposing-android.html
