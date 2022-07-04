@@ -15,6 +15,8 @@ https://www.freepianomethod.com/older-beginner-level-1-textbook-pdf-downloads.ht
 
 # Programming 
 
+https://github.com/hemanth/functional-programming-jargon
+
 * fresh Deno
 
 https://fresh.deno.dev/docs/introduction
