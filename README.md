@@ -138,3 +138,8 @@ https://github.com/zertosh/jenny-holzer-truisms/blob/master/truisms.txt
 
 # repurposing android as server 
 https://lbrito1.github.io/blog/2020/02/repurposing-android.html
+
+
+# uber
+
+https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign
