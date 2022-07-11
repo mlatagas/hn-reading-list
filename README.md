@@ -143,3 +143,7 @@ https://lbrito1.github.io/blog/2020/02/repurposing-android.html
 # uber
 
 https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign
+
+# TikTok
+https://www.economist.com/interactive/briefing/2022/07/09/the-all-conquering-quaver
+
