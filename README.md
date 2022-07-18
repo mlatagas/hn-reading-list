@@ -151,3 +151,7 @@ https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobb
 # TikTok
 https://www.economist.com/interactive/briefing/2022/07/09/the-all-conquering-quaver
 
+# Book Summaries
+
+> The Design Of Everyday Things
+https://elvischidera.com/2022-06-24-design-everyday-things/
