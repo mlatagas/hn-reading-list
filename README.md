@@ -77,6 +77,9 @@ https://slate.com/human-interest/2022/03/hybrid-workplace-office-in-person-work-
 
 https://www.pathsensitive.com/2018/12/my-strange-loop-talk-you-are-program.html
 
+> REST
+https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/
+
 
 # Art
 
@@ -155,3 +158,5 @@ https://www.economist.com/interactive/briefing/2022/07/09/the-all-conquering-qua
 
 > The Design Of Everyday Things
 https://elvischidera.com/2022-06-24-design-everyday-things/
+
+
