@@ -160,3 +160,6 @@ https://www.economist.com/interactive/briefing/2022/07/09/the-all-conquering-qua
 https://elvischidera.com/2022-06-24-design-everyday-things/
 
 
+# Hemp Research
+https://hemporium.com/2020/06/08/new-regulations-for-the-sale-of-cbd-products-in-sa/
+https://www.gov.za/sites/default/files/gcis_document/202005/43347rg11118gon586.pdf
