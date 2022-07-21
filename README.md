@@ -105,6 +105,9 @@ Naomi Klein _No Logo_
 
 # misc
 
+* Chess
+https://www.gautamnarula.com/how-to-get-good-at-chess-fast/
+
 * Apple II ads 
 http://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/Computers/Apple%20II/Apple%20II/Photos/
 
