@@ -107,6 +107,7 @@ Naomi Klein _No Logo_
 
 * Chess
 https://www.gautamnarula.com/how-to-get-good-at-chess-fast/
+https://www.chesstactics.org/introductory-matters/rationale-for-the-project/why-tactics/1_2_1_1.html
 
 * Apple II ads 
 http://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/Computers/Apple%20II/Apple%20II/Photos/
