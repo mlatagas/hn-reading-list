@@ -167,3 +167,8 @@ https://elvischidera.com/2022-06-24-design-everyday-things/
 # Hemp Research
 https://hemporium.com/2020/06/08/new-regulations-for-the-sale-of-cbd-products-in-sa/
 https://www.gov.za/sites/default/files/gcis_document/202005/43347rg11118gon586.pdf
+
+
+# Dihydrogen Monoxide
+
+https://en.wikipedia.org/wiki/Dihydrogen_monoxide_parody
