@@ -172,3 +172,7 @@ https://www.gov.za/sites/default/files/gcis_document/202005/43347rg11118gon586.p
 # Dihydrogen Monoxide
 
 https://en.wikipedia.org/wiki/Dihydrogen_monoxide_parody
+
+
+# simple css
+https://news.ycombinator.com/item?id=32805334
