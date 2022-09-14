@@ -176,3 +176,7 @@ https://en.wikipedia.org/wiki/Dihydrogen_monoxide_parody
 
 # simple css
 https://news.ycombinator.com/item?id=32805334
+
+# build your own ray tracer
+
+https://news.ycombinator.com/item?id=32836113
