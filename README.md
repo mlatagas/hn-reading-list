@@ -187,3 +187,6 @@ https://github.com/soxoj/maigret
 
 # goLang path
 https://quii.gitbook.io/learn-go-with-tests/
+
+#Terry Tao
+https://terrytao.wordpress.com/2022/10/03/what-are-the-odds/
