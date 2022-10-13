@@ -190,3 +190,7 @@ https://quii.gitbook.io/learn-go-with-tests/
 
 #Terry Tao
 https://terrytao.wordpress.com/2022/10/03/what-are-the-odds/
+
+# programming for artists
+https://news.ycombinator.com/item?id=33176026
+
