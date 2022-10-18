@@ -194,3 +194,7 @@ https://terrytao.wordpress.com/2022/10/03/what-are-the-odds/
 # programming for artists
 https://news.ycombinator.com/item?id=33176026
 
+# Kubernetes
+https://cloudplane.org/blog/why-kubernetes-is-so-complex
+
+
