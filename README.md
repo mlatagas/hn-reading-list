@@ -198,3 +198,5 @@ https://news.ycombinator.com/item?id=33176026
 https://cloudplane.org/blog/why-kubernetes-is-so-complex
 
 
+# salary transparency data
+https://xeiaso.net/
