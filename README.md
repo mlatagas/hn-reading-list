@@ -200,3 +200,6 @@ https://cloudplane.org/blog/why-kubernetes-is-so-complex
 
 # salary transparency data
 https://xeiaso.net/
+
+# theory of extended mind
+https://www.jstor.org/stable/3328150
