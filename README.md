@@ -206,3 +206,7 @@ https://www.jstor.org/stable/3328150
 
 # functional programming 
 https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway/
+
+
+# creativity and walking
+https://www.apa.org/pubs/journals/releases/xlm-a0036577.pdf
