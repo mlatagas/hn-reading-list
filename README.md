@@ -210,3 +210,6 @@ https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming
 
 # creativity and walking
 https://www.apa.org/pubs/journals/releases/xlm-a0036577.pdf
+
+#ffmpeg
+https://img.ly/blog/ultimate-guide-to-ffmpeg/
