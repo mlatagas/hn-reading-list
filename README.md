@@ -217,3 +217,6 @@ https://img.ly/blog/ultimate-guide-to-ffmpeg/
 #photography
 https://lcamtuf.coredump.cx/photo_basics/
 
+# Quotes
+Fish rots from the head.
+
