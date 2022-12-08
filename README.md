@@ -220,3 +220,6 @@ https://lcamtuf.coredump.cx/photo_basics/
 # Quotes
 Fish rots from the head.
 
+# innovation fund
+https://www.multichoice.com/innovation-fund
+
