@@ -223,3 +223,6 @@ Fish rots from the head.
 # innovation fund
 https://www.multichoice.com/innovation-fund
 
+# maths for programmers
+https://courses.csail.mit.edu/6.042/spring18/mcs.pdf
+
