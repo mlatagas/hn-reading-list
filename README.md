@@ -228,3 +228,5 @@ https://courses.csail.mit.edu/6.042/spring18/mcs.pdf
 
 #aerial imagery
 https://jakecoppinger.com/2022/12/creating-aerial-imagery-with-a-bike-helmet-camera-and-opendronemap/
+
+https://www.leadingsapiens.com/peter-drucker-knowledge-work/
