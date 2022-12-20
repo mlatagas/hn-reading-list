@@ -230,3 +230,9 @@ https://courses.csail.mit.edu/6.042/spring18/mcs.pdf
 https://jakecoppinger.com/2022/12/creating-aerial-imagery-with-a-bike-helmet-camera-and-opendronemap/
 
 https://www.leadingsapiens.com/peter-drucker-knowledge-work/
+
+
+#digicams
+
+https://www.gumtree.co.za/a-digital-camera/umdloti-beach/sony-cyber-shot-dsc-h55-digital-camera-and-nikon-l320-digital-camera/10011526457901010085582609
+https://www.gumtree.co.za/a-digital-camera/ilembe-dolphin-coast/olympus-vr+340-digital-camera/10011517948841012743480609
