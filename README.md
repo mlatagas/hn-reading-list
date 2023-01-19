@@ -236,3 +236,7 @@ https://www.leadingsapiens.com/peter-drucker-knowledge-work/
 
 https://www.gumtree.co.za/a-digital-camera/umdloti-beach/sony-cyber-shot-dsc-h55-digital-camera-and-nikon-l320-digital-camera/10011526457901010085582609
 https://www.gumtree.co.za/a-digital-camera/ilembe-dolphin-coast/olympus-vr+340-digital-camera/10011517948841012743480609
+
+# ai
+https://karpathy.ai/zero-to-hero.html
+
