@@ -240,3 +240,6 @@ https://www.gumtree.co.za/a-digital-camera/ilembe-dolphin-coast/olympus-vr+340-d
 # ai
 https://karpathy.ai/zero-to-hero.html
 
+
+#AWS tutorials
+https://www.freecodecamp.org/news/simple-site-hosting-with-amazon-s3-and-https-5e78017f482a/
