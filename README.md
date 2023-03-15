@@ -243,3 +243,10 @@ https://karpathy.ai/zero-to-hero.html
 
 #AWS tutorials
 https://www.freecodecamp.org/news/simple-site-hosting-with-amazon-s3-and-https-5e78017f482a/
+
+
+
+# Resources
+
+> illustrations (good for Hero's)
+https://undraw.co/illustrations
