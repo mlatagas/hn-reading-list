@@ -250,3 +250,8 @@ https://www.freecodecamp.org/news/simple-site-hosting-with-amazon-s3-and-https-5
 
 > illustrations (good for Hero's)
 https://undraw.co/illustrations
+
+# PWA
+
+> How to get a PWA into the App Store
+https://web.dev/pwas-in-app-stores/
