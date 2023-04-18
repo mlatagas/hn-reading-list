@@ -255,3 +255,7 @@ https://undraw.co/illustrations
 
 > How to get a PWA into the App Store
 https://web.dev/pwas-in-app-stores/
+
+
+> Advanced LLM Prompts 
+https://martinfowler.com/articles/2023-chatgpt-xu-hao.html
