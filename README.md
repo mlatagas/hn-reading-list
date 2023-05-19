@@ -17,7 +17,7 @@ https://www.freepianomethod.com/older-beginner-level-1-textbook-pdf-downloads.ht
 
 https://github.com/hemanth/functional-programming-jargon
 
-* fresh Deno
+# fresh Deno
 
 https://fresh.deno.dev/docs/introduction
 
@@ -28,7 +28,7 @@ https://javascript.info/
 
 https://github.com/sensity-ai/dot
 
-* AWS/EKS deployment
+# AWS/EKS deployment
 https://towardsaws.com/spring-boot-app-on-eks-from-scratch-8c173737f1a
 
 
@@ -46,7 +46,7 @@ email validation
 
 https://www.freecodecamp.org/news/python-code-examples-simple-python-program-example/
 
-* passwordless
+# passwordless
 
 https://web.dev/yahoo-japan-identity-case-study/
 
@@ -113,7 +113,7 @@ https://www.chesstactics.org/introductory-matters/rationale-for-the-project/why-
 http://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/Computers/Apple%20II/Apple%20II/Photos/
 
 
-* Open Source Controller Software
+# Open Source Controller Software
 > https://mixxx.org/
 
 https://publicdomainreview.org/collection/nikola-tesla-in-his-laboratory
@@ -124,17 +124,17 @@ https://www.bloomberg.com/news/features/2022-05-19/crypto-platform-hack-rocks-bl
 
 https://chriskiehl.com/article/the-tyranny-of-what-if-it-changes
 
-* Nikon Teardown
+# Nikon Teardown
 https://kolarivision.com/nikon-z9-disassembly-and-teardown/
 
-* Actionism
+# Actionism
 
 > https://culturejamming.realvinylz.net/interviewIe.html
 
 *mechanical watches
 https://ciechanow.ski/mechanical-watch/
 
-*raspberry pi projects
+# raspberry pi projects
 https://www.tomshardware.com/features/best-raspberry-pi-projects/4
 
 https://audiojive.com/akai-mpc-3000/
@@ -173,7 +173,6 @@ https://www.gov.za/sites/default/files/gcis_document/202005/43347rg11118gon586.p
 
 https://en.wikipedia.org/wiki/Dihydrogen_monoxide_parody
 
-
 # simple css
 https://news.ycombinator.com/item?id=32805334
 
@@ -188,7 +187,7 @@ https://github.com/soxoj/maigret
 # goLang path
 https://quii.gitbook.io/learn-go-with-tests/
 
-#Terry Tao
+# Terry Tao
 https://terrytao.wordpress.com/2022/10/03/what-are-the-odds/
 
 # programming for artists
@@ -259,3 +258,6 @@ https://web.dev/pwas-in-app-stores/
 
 > Advanced LLM Prompts 
 https://martinfowler.com/articles/2023-chatgpt-xu-hao.html
+
+# Tesla Diagrams
+https://news.ycombinator.com/item?id=35992553
