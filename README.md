@@ -261,3 +261,6 @@ https://martinfowler.com/articles/2023-chatgpt-xu-hao.html
 
 # Tesla Diagrams
 https://news.ycombinator.com/item?id=35992553
+
+# Diego Trujillo
+https://we-make-money-not-art.com/diego-trujillo-pisanty-when-photography-produces-something-other-than-photographs/
