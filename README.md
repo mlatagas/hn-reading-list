@@ -83,6 +83,8 @@ https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/
 
 # Art
 
+https://pudding.cool/2023/06/groove/
+
 https://publicdomainreview.org/collection/bruegel-big-fish-little-fish
 
 * Gangster Doodles
